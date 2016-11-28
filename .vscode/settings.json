@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // 指定typescript sdk
+    "typescript.tsdk": "C:/Users/yf/AppData/Roaming/npm/node_modules/typescript/lib"
+}
