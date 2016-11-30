@@ -1,7 +1,14 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "author": "yf",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/ws": "0.0.37",
+    "ws": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node dist/server.js"
+  }
 }
